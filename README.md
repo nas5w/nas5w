@@ -9,7 +9,7 @@ I like working on lots of projects in my spare time! There's a good chance on of
 - 📝 Checking out [my blog](https://typeofnan.dev)
 - 📬 Signing up for my [mailing list](https://buttondown.email/devtuts)
 - 🎥 Checking out my [YouTube tutorials](http://youtube.com/c/devtutsco)
-- ➕ Following me on here! Hooray vanity metrics!
+- ➕ Following me here or [on Twitter](https://twitter.com/intent/follow?screen_name=nas5w)! Hooray vanity metrics!
 
 ### Let's connect
 
