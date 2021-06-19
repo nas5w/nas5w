@@ -13,4 +13,4 @@ I like working on lots of projects in my spare time! There's a good chance on of
 
 ### Let's connect
 
-I always enjoy connecting with folks! Please feel free to react out to me on Twitter [@nas5w](https://twitter.com/nas5w).
+I always enjoy connecting with folks! Please feel free to reach out to me on Twitter [@nas5w](https://twitter.com/nas5w).
