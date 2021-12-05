@@ -6,10 +6,10 @@ I'm a full stack developer focusing mostly on browser and frontend tech. Most re
 
 I like working on lots of projects in my spare time! There's a good chance one of them brought you to my profile here. If you're interested in following some of my work, consider:
 
-- 📝 Checking out [my blog](https://typeofnan.dev)
 - 📬 Signing up for my [mailing list](https://buttondown.email/devtuts)
-- 🎥 Checking out my [YouTube tutorials](http://youtube.com/c/devtutsco)
 - ➕ Following me here or [on Twitter](https://twitter.com/intent/follow?screen_name=nas5w)! Hooray vanity metrics!
+- 📝 Checking out [my blog](https://typeofnan.dev)
+- 🎥 Checking out my [YouTube tutorials](http://youtube.com/c/devtutsco)
 
 ### Let's connect
 
