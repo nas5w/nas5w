@@ -1,6 +1,6 @@
 ### 👋 Thanks for dropping by!
 
-I'm a full stack developer focusing mostly on browser and frontend tech. Most recently, I have been doing a mix of hands-on-keyboard React/Typescript development and also modernization consulting work for the [U.S. Digital Service](https://usds.gov)!
+I'm a full stack software engineer focusing mostly on browser and frontend tech. Currently, I'm working on modernizing government software systems with the [U.S. Digital Service](https://usds.gov)!
 
 ### Stuff I work on
 
