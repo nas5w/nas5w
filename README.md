@@ -6,7 +6,7 @@ I'm a full stack software engineer focusing mostly on browser and frontend tech.
 
 I like working on lots of projects in my spare time! There's a good chance one of them brought you to my profile here. If you're interested in following some of my work, consider:
 
-- 📬 Signing up for my [mailing list](https://buttondown.email/devtuts)
+- 📬 Signing up for my [mailing list](https://typeofnan.dev/subscribe)
 - ➕ Following me here or [on Twitter](https://twitter.com/intent/follow?screen_name=nas5w)! Hooray vanity metrics!
 - 📝 Checking out [my blog](https://typeofnan.dev)
 - 🎥 Checking out my [YouTube tutorials](http://youtube.com/c/devtutsco)
