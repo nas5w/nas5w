@@ -1,6 +1,6 @@
 ### 👋 Thanks for dropping by!
 
-I'm a full stack software engineer focusing mostly on browser and frontend tech. Currently, I'm working on modernizing government software systems with the [U.S. Digital Service](https://usds.gov)!
+I'm a front-end software engineer working on modernizing government software systems with the [U.S. Digital Service](https://usds.gov)!
 
 ### Stuff I work on
 
