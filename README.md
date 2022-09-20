@@ -6,8 +6,8 @@ I'm a front-end software engineer about to start with [COMING SOON]. Previously,
 
 I like working on lots of projects in my spare time! There's a good chance one of them brought you to my profile here. If you're interested in following some of my work, consider:
 
-- 📬 Signing up for my [mailing list](https://typeofnan.dev/subscribe)
 - ➕ Following me here or [on Twitter](https://twitter.com/intent/follow?screen_name=nas5w)! Hooray vanity metrics!
+- 📬 Signing up for my [mailing list](https://typeofnan.dev/subscribe)
 - 📝 Checking out [my blog](https://typeofnan.dev)
 - 🎥 Checking out my [YouTube tutorials](http://youtube.com/c/devtutsco)
 
