@@ -1,6 +1,6 @@
 ### 👋 Thanks for dropping by!
 
-I'm a front-end software engineer about to start with [COMING SOON]. Previously, I worked on modernizing government software systems with the [U.S. Digital Service](https://usds.gov)! In my spare time (very little these days!) I write blog posts and make videos about front-end tech.
+I'm a senior UI engineer at Microsoft. Previously, I worked on modernizing government software systems with the [U.S. Digital Service](https://usds.gov)! In my spare time (very little these days!) I write blog posts and make videos about front-end tech.
 
 ### Stuff I work on
 
