@@ -1,6 +1,6 @@
 ### About
 
-I'm a senior UI engineer at Microsoft. Previously, I worked on modernizing government software systems with the [U.S. Digital Service](https://usds.gov)! In my spare time (very little these days!) I write blog posts and make videos about front-end tech.
+I'm a senior UI engineer at Microsoft. Previously, I worked on modernizing government software systems with the [U.S. Digital Service](https://usds.gov). In my spare time, you'll find me writing blog posts, newsletters, and contributing to open source.
 
 ### Stuff I work on
 
@@ -9,4 +9,3 @@ I like working on lots of projects in my spare time! There's a good chance one o
 - ➕ Following me here! Hooray vanity metrics!
 - 📬 Signing up for my [mailing list](https://typeofnan.dev/subscribe)
 - 📝 Checking out [my blog](https://typeofnan.dev)
-- 🎥 Checking out my [YouTube tutorials](http://youtube.com/c/devtutsco) (inactive)
