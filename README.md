@@ -8,4 +8,4 @@ I like working on lots of projects in my spare time! There's a good chance one o
 
 - ➕ Following me here! Hooray vanity metrics!
 - 👋 Saying hi on [bluesky](https://bsky.app/profile/nick.scialli.me)
-- 📝 Checking out [my blog](https://typeofnan.dev)
+- 📝 Checking out [my blog](https://nick.scialli.me)
