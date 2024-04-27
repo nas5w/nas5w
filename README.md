@@ -6,6 +6,7 @@ I'm a senior UI engineer at Microsoft. Previously, I worked on modernizing gover
 
 I like working on lots of projects in my spare time! There's a good chance one of them brought you to my profile here. If you're interested in following some of my work, consider:
 
+- 🎓 Subscribing to my free [How the web works](https://howthewebworks.substack.com/) newsletter
 - ➕ Following me here! Hooray vanity metrics!
 - 👋 Saying hi on [bluesky](https://bsky.app/profile/nick.scialli.me)
 - 📝 Checking out [my blog](https://nick.scialli.me)
